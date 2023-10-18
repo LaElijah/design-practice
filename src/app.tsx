@@ -6,7 +6,7 @@ export default function App() {
 
     return (
         <div>
-            hi
+            hi there
         </div>
     )
 }
